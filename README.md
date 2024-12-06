@@ -1,6 +1,6 @@
 
 ## Design
--Navbar: Create a visually appealing navbar with the following structure:
+# Navbar: Create a visually appealing navbar with the following structure:
 Logo positioned in the middle.
 "Blog" button on the left.
 Account balance with a coin icon on the right.
