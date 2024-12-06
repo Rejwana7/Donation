@@ -1,5 +1,5 @@
 
-##Design
+## Design
 Navbar: Create a visually appealing navbar with the following structure:
 Logo positioned in the middle.
 "Blog" button on the left.
@@ -14,7 +14,7 @@ Input field for donation amount.
 Button for submitting the donation.
 History Section: Initially hidden and empty.
 
-##Functionalities
+## Functionalities
 
 Donation and History Button Functionality:
 Clicking the "History" button will hide the donation data and display the history.
@@ -36,7 +36,7 @@ Date and time of the transaction.
 Donation amount.
 Donation name.
 
-##Challenges
+## Challenges
 Sticky Navbar: Make the navbar sticky to the top of the page.
 Blog Page: Create a blog.html file and link it to the main page:
 The blog page should contain 4 questions and their answers:
